@@ -2,7 +2,7 @@ Dementia Risk Prediction App
 
 Overview
 
-Welcome to the Dementia Risk Prediction App! This friendly tool uses a trained machine learning model to give you a quick estimate of someone’s likelihood of dementia based on factors like age, years of education, and cognitive test scores.
+Welcome to the Dementia Risk Prediction App! This friendly tool uses a trained machine learning model to give you a quick estimate of someone’s likelihood of dementia based on factors like age, years of education, and cognitive test scores. 
 
 What’s Included
 
@@ -13,6 +13,8 @@ Model Training: Script to train or fine-tune the model on your data
 Pretrained Model: Ready-to-use artifact at model/dementia_model.pkl
 
 Web Interface: Interactive Streamlit app for making predictions in real time
+
+Simple run using a RunApp.bat file
 
 Quick Start
 
