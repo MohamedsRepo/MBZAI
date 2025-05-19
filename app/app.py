@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Load the trained model
-model = joblib.load("model\dementia_model.pkl")
+model = joblib.load("model/dementia_model.pkl")
 
 st.title("🧠 Dementia Risk Predictor")
 st.write("Enter patient data to assess the risk of dementia.")
